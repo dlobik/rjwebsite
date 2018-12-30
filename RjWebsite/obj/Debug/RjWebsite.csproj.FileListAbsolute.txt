@@ -62,6 +62,9 @@ c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\Micros
 c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
 c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\Microsoft.AI.WindowsServer.xml
 c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\Microsoft.AI.Web.xml
-c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\obj\Debug\RjWebsite.csprojResolveAssemblyReference.cache
 c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\obj\Debug\RjWebsite.dll
 c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\obj\Debug\RjWebsite.pdb
+c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\EntityFramework.dll
+c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\EntityFramework.SqlServer.dll
+c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\EntityFramework.xml
+c:\users\rj\documents\visual studio 2017\Projects\RjWebsite\RjWebsite\bin\EntityFramework.SqlServer.xml

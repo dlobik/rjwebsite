@@ -5,10 +5,11 @@ using System.Web;
 
 namespace RjWebsite.Models
 {
-    public class Chore
+    public class Roommate
     {
         public int ID { get; set; }
-        public string CName { get; set; }
-        public int CDifficulty { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        
     }
 }
